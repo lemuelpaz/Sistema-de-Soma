@@ -1,0 +1,16 @@
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.AssemblyInfo.cs
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Sistema de Soma\bin\Debug\net5.0\Sistema de Soma.exe
+C:\Users\WINDOWS\source\repos\Sistema de Soma\bin\Debug\net5.0\Sistema de Soma.deps.json
+C:\Users\WINDOWS\source\repos\Sistema de Soma\bin\Debug\net5.0\Sistema de Soma.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Sistema de Soma\bin\Debug\net5.0\Sistema de Soma.runtimeconfig.dev.json
+C:\Users\WINDOWS\source\repos\Sistema de Soma\bin\Debug\net5.0\Sistema de Soma.dll
+C:\Users\WINDOWS\source\repos\Sistema de Soma\bin\Debug\net5.0\Sistema de Soma.pdb
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.dll
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\refint\Sistema de Soma.dll
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.pdb
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\Sistema de Soma.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Sistema de Soma\obj\Debug\net5.0\ref\Sistema de Soma.dll
